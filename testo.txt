@@ -1,0 +1,32 @@
+"Rio Branco","Maceió","Macapá","Manaus","Salvador","Fortaleza","Brasília","Vitória","Goiânia","São Luís","Cuiabá","Campo Grande","Belo Horizonte","Belém","João Pessoa","Curitiba","Recife","Teresina","Rio de Janeiro","Natal","Porto Alegre","Porto Velho","Boa Vista","Florianópolis","São Paulo","Aracaju","Palmas"
+
+
+31   // Rio Branco
+27   // Maceió
+28   // Macapá
+29   // Manaus
+26   // Salvador
+28   // Fortaleza
+22   // Brasília
+24   // Vitória
+26   // Goiânia
+27   // São Luís
+30   // Cuiabá
+29   // Campo Grande
+23   // Belo Horizonte
+29   // Belém
+28   // João Pessoa
+18   // Curitiba
+28   // Recife
+30   // Teresina
+27   // Rio de Janeiro
+28   // Natal
+20   // Porto Alegre
+30   // Porto Velho
+31   // Boa Vista
+22   // Florianópolis
+23   // São Paulo
+28   // Aracaju
+31   // Palmas
+
+

@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    align-items: center;
+    margin: center;
+
+}
+.lista{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+ 
+.card{
+    text-align: center;
+    font-weight: 400;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+}
+ 
+.lista img{
+    width: 250px;
+    height: 300px;
+    object-fit: cover;
+}
